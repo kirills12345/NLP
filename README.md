@@ -1,3 +1,3 @@
 # NLP
-IDC  - Natural Language Processing
-Includes HW assignments/final project for NLP course at IDC.
+IDC - Natural Language Processing summer semester 2021 (HW assignments/final project)
+
